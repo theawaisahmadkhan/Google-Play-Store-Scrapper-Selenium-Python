@@ -33,4 +33,4 @@ app_url = "https://play.google.com/store/apps/details?id=com.example.app"
 Run the script:
 
 python Google Play store Scrap.py
-After execution, the script will fetch the desired app's information and save it in a CSV file named app_data.csv.
+After execution, the script will fetch the desired app's information and save it in a CSV file named scraping_playstore.csv.
